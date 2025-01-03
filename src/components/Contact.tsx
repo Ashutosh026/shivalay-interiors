@@ -101,13 +101,15 @@ export default function Contact() {
                   <option>2D Design</option>
                   <option>3D Visualization</option>
                   <option>Full Service Design</option>
+                  <option>Furniture Design</option>
+                  <option>Modular Design Design</option>
                 </select>
               </div>
               <div>
                 <label htmlFor="message" className="block text-sm font-medium text-gray-700">Message</label>
                 <textarea
                   id="message"
-                  rows={4}
+                  rows={6}
                   value={formData.message}
                   onChange={handleChange}
                   required
