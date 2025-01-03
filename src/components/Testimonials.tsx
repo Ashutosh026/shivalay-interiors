@@ -18,7 +18,7 @@ const testimonials = [
     name: "Anjali Sharma",
     role: "Office Manager",
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80",
-    text: "Professional, creative, and efficient. They delivered our office renovation project on time and exceeded expectations and i am completely satisfied by finishing.",
+    text: "Professional, creative, and efficient. They delivered our office renovation project on time and exceeded expectations and i am completely satisfied .",
   },
   {
     name: "Mukul singh",
